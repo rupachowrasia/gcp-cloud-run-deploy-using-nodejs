@@ -32,10 +32,10 @@ Note: Make sure to delete all resources once done from Cloud Run, Cloud Build an
 
 ```bash
 # Clone the repo
-git clone https://github.com/rupachowrasia/node-gcp-cloud-run-deploy.git
+git clone https://github.com/rupachowrasia/gcp-cloud-run-deploy-using-nodejs.git
 
 # Move into the project directory
-cd node-gcp-cloud-run-deploy
+cd gcp-cloud-run-deploy-using-nodejs
 
 # Install dependencies
 npm install
